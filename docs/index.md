@@ -19,8 +19,8 @@
 
   <p align="center">
     A tale of two cities:<br /> 
-    Ranked 3rd most livable city in the US by The Economist.  <br />
-    Ranked 3rd worst for racial equity in the US by The Reinvestment Fund
+    Ranked 3rd most livable city in the U.S. by The Economist.  <br />
+    Ranked 3rd worst for racial equity in the U.S. by The Reinvestment Fund
     <br /> <br />
     <a href="https://github.com/dts0112/docs"><strong>Explore the maps »</strong></a>
     <br />
