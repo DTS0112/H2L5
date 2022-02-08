@@ -207,6 +207,7 @@ Don't forget to give the project a star! Thanks again!
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 * [Commentary: Pittsburgh is America’s apartheid city](https://www.publicsource.org/commentary-jerry-dickinson-pittsburgh-is-americas-apartheid-city/)
+* [Pittsburgh's Inequality Across Gender and Race 2019](https://apps.pittsburghpa.gov/redtail/images/7109_Pittsburgh's_Inequality_Across_Gender_and_Race_09_18_19.pdf)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
