@@ -131,19 +131,19 @@ donate thier time.
 Pittsburgh, PGH, Steel City, Iron City, River City, City of Bridges, Six Burgh, BlitzBurgh, DirtyBurgh, Paris of Appalachia, The 412...
 
 is a City
-<!-- pgh outline!
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
--->
+<!-- pgh outline! -->
+![Pittsburgh](pgh.png)
+
 
 in Allegheny County
-<!-- PGH in AlleG
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
--->
+<!-- PGH in AlleG -->
+![Pittsburgh in Allegheny County](pgh_in_alleG.png)
+
 
 in Western Pennsylvania
-<!-- pgh in PA outline!
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
--->
+<!-- pgh in PA outline! -->
+![Pittsburgh in Western PA](pgh_in_westPa.png)
+
 
 in the United States of America, Continent of North America, Earth
 <!-- pgh on interactive map zoomed way out!
