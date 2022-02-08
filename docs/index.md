@@ -101,6 +101,7 @@ Is Pittsburgh one of the worst cities for racial and economic inequity?:
 
 The data for the maps, charts, and other documents included in this project come from the following sources. 
 
+* [The City of Pittsburgh](https://pittsburghpa.gov)
 * [NASA](https://nasa.gov/)
 * [USDA](https://usda.gov/)
 * [US Census](https://census.gov/)
@@ -109,6 +110,9 @@ The data for the maps, charts, and other documents included in this project come
 * [Bureau of Labor Statistics](https://www.bls.gov/)
 * [The Economist](https://www.eiu.com/n/campaigns/global-liveability-index-2021/)
 * [The Reinvestment Fund](https://www.reinvestment.com/)
+* [Visit Pittsburgh](https://www.visitpittsburgh.com/about-us/relocation/education/colleges-universities/#:~:text=There%20are%20more%20than%2029,of%20Pittsburgh%20and%20Duquesne%20University)
+* [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)
+* [Heinz History Center](https://www.heinzhistorycenter.org/blog/western-pennsylvania-history/pittsburgh-the-city-of-bridges)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -167,11 +171,11 @@ _See more population statistics, and compare them to Cincinnati and Austin at th
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Interesting facts about Pittsburgh -->
+## Interesing facts about Pittsburgh
 
-- [x] Add Changelog
-- [x] Add back to top links
+- [x] ~~446~~ 445 bridges _[Heinz History Center](https://www.heinzhistorycenter.org/blog/western-pennsylvania-history/pittsburgh-the-city-of-bridges)_
+- [x] 800+ City Steps [The City of Pittsburgh](https://pittsburghpa.gov/citysteps)
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
