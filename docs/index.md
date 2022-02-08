@@ -44,11 +44,11 @@
     <a href="https://github.com/dts0112/docs"><strong>Explore the maps »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Racial Inequity</a>
+    <a href="">Racial Inequity</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Income Inequity</a>
+    <a href="">Income Inequity</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Food Aparthied</a>
+    <a href="">Food Aparthied</a>
   </p>
 </div>
 
