@@ -86,20 +86,20 @@
 <!-- Need a good pic here!
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-In this examination of Pittsburgh, Pennsylvania (aka PGH) we will take you on a tour using maps and data that will
+In this examination of Pittsburgh, Pennsylvania we will take you on a tour using maps and data that will
 give you a deeper understanding of what's really going on here. We'll present visual boundaries: City Council Districts / voting wards /
 neighborhoods and more, combined with various datasets from entities such as the US Census, Bureau of Labor Statistics, the USDA, and NASA, to name a few. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
 Pittsburgh is one of the worst cities for racial and economic inequity?:
 * Allegheny County says... `'PGH... not a good place for people of color'`.
 * The reinvestment Fund ranked Pittsburgh **3rd worst in the country**.
-* Listen to my podcast about living with Martins and Bernies and more.
+* Listen to my podcast about living with Martins and Bernies and more oh my.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Where does the data come from?
 
-The data for the maps, charts, and and other documents included in this project come from the following sources. 
+The data for the maps, charts, and other documents included in this project come from the following sources. 
 
 * [NASA](https://nasa.gov/)
 * [USDA](https://usda.gov/)
@@ -118,13 +118,13 @@ The data for the maps, charts, and and other documents included in this project 
 <!-- Who funded this project -->
 ### Who funded this project?
 
-This project has not yet been funded. It was built using free cloud-based technology and data that is free to the public.
+This project has not yet been funded. It is being built using free cloud-based technology and data that is free to the public.
 The content developers, researchers, data analysts, programmers, and web designers all
-donated thier time.
+donate thier time.
 
 <!-- What is Pittsburgh? -->
 ## What is Pittsburgh?
-Pittsburgh, PGH, Steel City, City of Bridges, Iron City, BlitzBurgh, DirtyBurgh, Paris of Appalachia, The 412...
+Pittsburgh, PGH, Steel City, Iron City, River City, City of Bridges, Six Burgh, BlitzBurgh, DirtyBurgh, Paris of Appalachia, The 412...
 
 is a City
 <!-- pgh outline!
@@ -152,8 +152,8 @@ in the United States of America, Continent of North America, Earth
 ### How Big is Pittsburgh?
 
 Pittsburth is 55.37 square miles according to the U.S. Census Bureau. 
-* Bigger than Boston(48.28 sq mi), San Francisco(46.87 sq mi), and Miami(35.87 sq mi)
-* Smaller than Los Angeles(468.67), New York(302.64), and Philadelphia (134.1). 
+* Bigger than Boston(48.28 sq. mi.), San Francisco(46.87 sq. mi.), and Miami(35.87 sq. mi.)
+* Smaller than Los Angeles(468.67 sq. mi.), New York(302.64 sq. mi.), and Philadelphia (134.1 sq. mi.). 
 
 _U.S. Census land area data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
 
@@ -161,7 +161,7 @@ _U.S. Census land area data compiled by [indexmundi](https://www.indexmundi.com/
 ## How many people live here?
 There were 302,971 people living in Pittsburgh in 2020. Down from 305,704 in 2010. <br/>
 This is about 0.09 percent of the total population of the United States. <br/>
-About 1 in every 1090 people in the U.S. live in Pittsburgh
+About 1 in every 1090 people in the U.S. live in Pittsburgh.
 
 _See more population statistics, and compare them to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
 
