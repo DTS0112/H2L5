@@ -69,7 +69,7 @@
     <li><a href="#usage">Dude, Where's my bus?</a></li>
     <li><a href="#roadmap">311 is a joke in your town</a></li>
     <li><a href="#contributing">Toxic developments - why even the rich should be concerned</a></li>
-    <li><a href="#license"></a></li>
+    <li><a href="#license">slider map of the great Black migration out of the city</a></li>
     <li><a href="#contact"></a></li>
     <li><a href="#acknowledgments"></a></li>
     <li><a href="#contact"></a></li>
