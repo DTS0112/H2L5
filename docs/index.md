@@ -64,13 +64,16 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Where's the data coming from?"</a></li>
+        <li><a href="#built-with">Who funded this project?"</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Why we're doing this</a>
+      <a href="#getting-started">What is Pittsburgh?</a>
       <ul>
-        <li><a href="#prerequisites"></a></li>
-        <li><a href="#installation">How you can help</a></li>
+        <li><a href="#prerequisites">How big is Pittsburgh?</a></li>
+        <li><a href="#installation">How many people live here?</a></li>
+        <li><a href="#installation">Intersting facts about PGH</a></li>
+        <li><a href="#installation">Municipal boundaries</a></li>
       </ul>
     </li>
     <li><a href="#usage">Air Quality in Poor Neighborhoods</a></li>
