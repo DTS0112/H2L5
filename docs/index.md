@@ -161,7 +161,7 @@ _U.S. Census data compiled by [indexmundi](https://www.indexmundi.com/facts/unit
 ## How many people live here?
 There were 302,971 people living in Pittsburgh in 202. Down from 305,704 in 2010. 
 
-_Find out more about the population, and see how it compares to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
+_See more population statistics, and compare them to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
