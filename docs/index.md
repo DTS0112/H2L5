@@ -42,7 +42,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-pittsburgh-project">About The Pittsburgh Project</a>
+      <a href="#about-pitt-sub-graph">About Pitt Sub Graph</a>
       <ul>
         <li><a href="#where-does-the-data-come-from">Where does the data come from?</a></li>
         <li><a href="#who-funded-this-project">Who funded this project?"</a></li>
@@ -81,7 +81,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Pittsburgh Project
+## About Pitt Sub Graph
 
 <!-- Need a good pic here!
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -157,6 +157,13 @@ Pittsburth is 55.37 square miles according to the U.S. Census Bureau.
 * Bigger area than Boston(48.28 sq. mi.), San Francisco(46.87 sq. mi.), and Miami(35.87 sq. mi.)
 * Smaller area than Los Angeles(468.67 sq. mi.), New York(302.64 sq. mi.), and Philadelphia (134.1 sq. mi.). 
 
+<!-- Show Pgh superimposed on Disney land!
+![Pittsburgh in Western PA](pgh_in_dinsney.png)
+https://www.themeasureofthings.com/results.php?comp=area&unit=mi2&amt=55&sort=pr&p=20
+ --> 
+ 
+ 
+ 
 _U.S. Census land area data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
 
 <!-- How many people live here? -->
