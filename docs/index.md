@@ -8,27 +8,6 @@
 -->
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
-
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
--->
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -63,12 +42,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Where's the data coming from?"</a></li>
-        <li><a href="#built-with">Who funded this project?"</a></li>
+        <li><a href="#where-did-the-data-come-from">Wheres the data coming from?"</a></li>
+        <li><a href="#who-funded-this-project">Who funded this project?"</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">What is Pittsburgh?</a>
+      <a href="#What-is-Pittsburgh">What is Pittsburgh?</a>
       <ul>
         <li><a href="#prerequisites">How big is Pittsburgh?</a></li>
         <li><a href="#installation">How many people live here?</a></li>
@@ -110,42 +89,41 @@ give you a deeper understanding of what's really going on here. We'll present vi
 neighborhoods and more, combined with various datasets from entities such as the US Census, Bureau of Labor Statistics, the USDA, and NASA, to name a few. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
 Pittsburgh is one of the worst cities for racial and economic inequity?:
-* Allegheny County says...
-* The reinvestment Fund ranked Pittsburgh **3rd worst in the country**
-* Listen to my podcast of living with Martins and Bernies
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+* Allegheny County says... `'PGH... not a good place for people of color'`.
+* The reinvestment Fund ranked Pittsburgh **3rd worst in the country**.
+* Listen to my podcast about living with Martins and Bernies and more.
 
 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+### Where did the data come from?
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The data for the maps, charts, and etc. included in this project come from the following sources. 
 
-### Prerequisites
+* [NASA](https://nasa.gov/)
+* [USDA](https://usda.gov/)
+* [US Census](https://census.gov/)
+* [Western PA Regional Data Center](https://wprdc.gov/)
+* [Pennsylvania Spatial Data Access](https://www.pasda.psu.edu/)
+* [Bureau of Labor Statistics](https://www.bls.gov/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- Who funded this project -->
+## Who funded this project?
+
+This project has not yet been funded. It was built using free cloud-based technology and data that is free to the public.
+The content developers, researchers, data analysts, programmers, and web designers all
+donated thier time.
+
+<!-- What is Pittsburgh? -->
+### What is Pittsburgh?
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
