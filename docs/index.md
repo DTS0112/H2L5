@@ -151,16 +151,17 @@ in the United States of America, Continent of North America, Earth
 
 ### How Big is Pittsburgh?
 
-Bigger than a bread box. 55.37 square miles according to the U.S. Census Bureau. Which makes it slightly larger by area than both Boston (48.28 sq mi) and San Francisco (46.87 sq mi), but much smaller by area than cities like Los Angeles (468.67), New York (302.64) and Philadelphia (134.1). 
+Pittsburth is 55.37 square miles according to the U.S. Census Bureau. 
+* Bigger than Boston(48.28 sq mi), San Francisco(46.87 sq mi), and Miami(35.87 sq mi)
+* Smaller than Los Angeles(468.67), New York(302.64), and Philadelphia (134.1). 
 
-_According to U.S. Census data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
+_U.S. Census data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
 
 <!-- USAGE EXAMPLES -->
 ## How many people live here?
+There were 302,971 people living in Pittsburgh in 202. Down from 305,704 in 2010. 
 
-According to the U.S. Census in 2020 there were 302,971 people living in Pittsburgh. Down from 305,704 in 2010.
-
-_Find out more about Pittsburgh population demographics, and see how it compares to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
+_Find out more about the population, and see how it compares to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
