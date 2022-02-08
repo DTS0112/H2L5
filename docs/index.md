@@ -15,7 +15,7 @@
     <img src="pgh_logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">The Pittsburgh Project</h3>
+  <h3 align="center">Pitt Sub Graphs</h3>
 
   <p align="center">
     A tale of two cities:<br /> 
