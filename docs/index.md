@@ -176,13 +176,11 @@ _See more population statistics, and compare them to Cincinnati and Austin at th
 
 - [x] ~~446~~ 445 bridges _[Heinz History Center](https://www.heinzhistorycenter.org/blog/western-pennsylvania-history/pittsburgh-the-city-of-bridges)_
 - [x] 800+ City Steps [The City of Pittsburgh](https://pittsburghpa.gov/citysteps)
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Over a million google search results for "a tale of two cities" and "pittsburgh"
+    - [ ] Even a Louie Anderson movie
+    - [ ] a wnyc podcast about pittsburgh
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [ search results](https://www.google.com/search?q=%22tale+of+two+cities%22+pittsburgh&rlz=1CAYZDA_enUS992&sxsrf=APq-WBvlUY2gh-1Aasf7d_n2iWb5a_JnLg%3A1644314062849&ei=zj0CYrCqM5LOytMPx56ciAY&ved=0ahUKEwiwyfWc6-_1AhUSp3IEHUcPB2EQ4dUDCA4&uact=5&oq=%22tale+of+two+cities%22+pittsburgh&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECc6BwgAEEcQsAM6BwgjELACECdKBAhBGABKBAhGGABQmAZYqzVgtTtoAXACeACAAVmIAb4CkgEBNJgBAKABAcgBA8ABAQ&sclient=gws-wiz) for a full list of people who thought of that before me.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -218,9 +216,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Obama - O'Biden - O'Gainey
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -230,7 +228,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-* [Source code inspiration for this page](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+* [Source code inspiration for this page layout](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
