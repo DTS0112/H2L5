@@ -89,7 +89,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
 In this examination of Pittsburgh, Pennsylvania (aka PGH) we will attempt to take you on a tour that will
-give you deeper understanding of what's really going on here. We'll present visual boundaries like City Council Districts / voting wards /
+give you a deeper understanding of what's really going on here. We'll present visual boundaries like City Council Districts / voting wards /
 neighborhoods and more, combined with various datasets from the US Census, Bureau of Labor Statistics, the USDA, NASA. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
 Here's why:
