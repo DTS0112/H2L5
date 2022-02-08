@@ -32,14 +32,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="pgh_logo.png" alt="Logo" >
   </a>
 
   <h3 align="center">The Pittsburgh Project</h3>
 
   <p align="center">
-    A few views of PGH you may not have seen before
+    A few views of PGH you may not have seen before.
     <br /> <br />
     <a href="https://github.com/dts0112/docs"><strong>Explore the maps »</strong></a>
     <br />
@@ -49,6 +49,8 @@
     <a href="">Income Inequity</a>
     ·
     <a href="">Food Aparthied</a>
+    ·
+    <a href="">How You Can Help</a>
   </p>
 </div>
 
@@ -88,14 +90,14 @@
 <!-- Need a good pic here!
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-In this examination of Pittsburgh, Pennsylvania (aka PGH) we will attempt to take you on a tour that will
-give you a deeper understanding of what's really going on here. We'll present visual boundaries like City Council Districts / voting wards /
-neighborhoods and more, combined with various datasets from the US Census, Bureau of Labor Statistics, the USDA, NASA. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
+In this examination of Pittsburgh, Pennsylvania (aka PGH) we will take you on a tour using maps and data that will
+give you a deeper understanding of what's really going on here. We'll present visual boundaries: City Council Districts / voting wards /
+neighborhoods and more, combined with various datasets from entities such as the US Census, Bureau of Labor Statistics, the USDA, and NASA, to name a few. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Pittsburgh is one of the worst cities for racial and economic inequity?:
+* Allegheny County says...
+* The reinvestment Fund ranked Pittsburgh **3rd worst in the country**
+* Listen to my podcast of living with Martins and Bernies
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
