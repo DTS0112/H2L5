@@ -155,13 +155,13 @@ Pittsburth is 55.37 square miles according to the U.S. Census Bureau.
 * Bigger than Boston(48.28 sq mi), San Francisco(46.87 sq mi), and Miami(35.87 sq mi)
 * Smaller than Los Angeles(468.67), New York(302.64), and Philadelphia (134.1). 
 
-_U.S. Census data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
+_U.S. Census land area data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
 
 <!-- USAGE EXAMPLES -->
 ## How many people live here?
 There were 302,971 people living in Pittsburgh in 2020. Down from 305,704 in 2010. <br/>
-This is about 0.09 percent of the total population of the United States. Put another way
-about 1 out of every 1090 people in the U.S. live in Pittsburgh
+This is about 0.09 percent of the total population of the United States. <br/>
+About 1 in every 1090 people in the U.S. live in Pittsburgh
 
 _See more population statistics, and compare them to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
 
