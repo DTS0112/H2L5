@@ -42,7 +42,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-pittsburgh-project">About The Pittsburgh Project</a>
       <ul>
         <li><a href="#where-does-the-data-come-from">Where does the data come from?</a></li>
         <li><a href="#who-funded-this-project">Who funded this project?"</a></li>
@@ -81,19 +81,19 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Pittsburgh Project
 
 <!-- Need a good pic here!
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-In this examination of Pittsburgh, Pennsylvania we will take you on a tour using maps and data that will
+In this examination of Pittsburgh, Pennsylvania we will take you on a tour, using maps and data, that will
 give you a deeper understanding of what's really going on here. We'll present visual boundaries: City Council Districts / voting wards /
-neighborhoods and more, combined with various datasets from entities such as the US Census, Bureau of Labor Statistics, the USDA, and NASA, to name a few. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
+neighborhoods and more, combined with various datasets from entities such as the US Census Bureau, the Bureau of Labor Statistics, the USDA, and NASA, to name a few. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
-Pittsburgh is one of the worst cities for racial and economic inequity?:
+Is Pittsburgh one of the worst cities for racial and economic inequity?:
 * Allegheny County says... `'PGH... not a good place for people of color'`.
 * The reinvestment Fund ranked Pittsburgh **3rd worst in the country**.
-* Listen to my podcast about living with Martins and Bernies and more oh my.
+* Listen to my podcast about living with Martins and Bernies and more oh my!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,17 +147,15 @@ in the United States of America, Continent of North America, Earth
 -->
 
 
-
-
 ### How Big is Pittsburgh?
 
 Pittsburth is 55.37 square miles according to the U.S. Census Bureau. 
-* Bigger than Boston(48.28 sq. mi.), San Francisco(46.87 sq. mi.), and Miami(35.87 sq. mi.)
-* Smaller than Los Angeles(468.67 sq. mi.), New York(302.64 sq. mi.), and Philadelphia (134.1 sq. mi.). 
+* Bigger area than Boston(48.28 sq. mi.), San Francisco(46.87 sq. mi.), and Miami(35.87 sq. mi.)
+* Smaller area than Los Angeles(468.67 sq. mi.), New York(302.64 sq. mi.), and Philadelphia (134.1 sq. mi.). 
 
 _U.S. Census land area data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
 
-<!-- USAGE EXAMPLES -->
+<!-- How many people live here? -->
 ## How many people live here?
 There were 302,971 people living in Pittsburgh in 2020. Down from 305,704 in 2010. <br/>
 This is about 0.09 percent of the total population of the United States. <br/>
