@@ -36,7 +36,7 @@
     <img src="pgh_logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Pittsburgh- Project</h3>
+  <h3 align="center">The Pittsburgh Project</h3>
 
   <p align="center">
     A few views of PGH you may not have seen before
@@ -44,11 +44,11 @@
     <a href="https://github.com/dts0112/docs"><strong>Explore the maps »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Racial Inequity</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Income Inequity</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Food Aparthied</a>
   </p>
 </div>
 
@@ -85,9 +85,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<!-- Need a good pic here!
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+-->
+In this examination of Pittsburgh, Pennsylvania (aka PGH) we will attempt to take you on a tour that will
+give you deeper understanding of what's really going on here. We'll present visual boundaries like City Council Districts / voting wards /
+neighborhoods and more, combined with various datasets from the US Census, Bureau of Labor Statistics, the USDA, NASA. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
