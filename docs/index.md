@@ -79,6 +79,18 @@
     <li><a href="#license">Gentrification</a></li>
     <li><a href="#contact">Historic racism</a></li>
     <li><a href="#acknowledgments">Stop and Frisk</a></li>
+    <li><a href="#contact">Pre gentrification and Home Ownership change in the past 10 years </a></li>
+    <li><a href="#acknowledgments">Action Housing</a></li>
+    <li><a href="#acknowledgments">Liberty Avenue downtown - Most depressing street in America?</a></li>
+    <li><a href="#usage">Dude, Where's my bus?</a></li>
+    <li><a href="#roadmap">Food Deserts</a></li>
+    <li><a href="#contributing">Low Access to food</a></li>
+    <li><a href="#license">Gentrification</a></li>
+    <li><a href="#contact">Historic racism</a></li>
+    <li><a href="#acknowledgments">Stop and Frisk</a></li>
+    <li><a href="#contact">Pre gentrification and Home Ownership change in the past 10 years </a></li>
+    <li><a href="#acknowledgments">Action Housing</a></li>
+    <li><a href="#acknowledgments">Liberty Avenue downtown - Most depressing street in America?</a></li>
   </ol>
 </details>
 
