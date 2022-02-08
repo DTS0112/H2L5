@@ -149,34 +149,18 @@ in the United States of America, Continent of North America, Earth
 
 
 
-### Installation
+### How Big is Pittsburgh?
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Bigger than a bread box. 55.37 square miles according to the U.S. Census Bureau. Which makes it slightly larger by area than both Boston (48.28 sq mi) and San Francisco (46.87 sq mi), but much smaller by area than cities like Los Angeles (468.67), New York (302.64) and Philadelphia (134.1). 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+_According to U.S. Census data compiled by [indexmundi](https://www.indexmundi.com/facts/united-states/quick-facts/cities/rank/land-area)_
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## How many people live here?
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+According to the U.S. Census in 2020 there were 302,971 people living in Pittsburgh. Down from 305,704 in 2010.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_Find out more about Pittsburgh population demographics, and see how it compares to Cincinnati and Austin at the  [U.S. Census](https://www.census.gov/quickfacts/fact/table/cincinnaticityohio,pittsburghcitypennsylvania,austincitytexas,US/RTN130212)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
