@@ -73,7 +73,7 @@
     <li><a href="#contact"></a></li>
     <li><a href="#acknowledgments"></a></li>
     <li><a href="#contact"></a></li>
-    <li><a href="#acknowledgments"></a></li>
+    <li><a href="#read-more">Read More</a></li>
     <li><a href="#acknowledgments"></a></li>
   </ol>
 </details>
@@ -202,7 +202,13 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- read more -->
+## Read more
 
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+* [Commentary: Pittsburgh is America’s apartheid city](https://www.publicsource.org/commentary-jerry-dickinson-pittsburgh-is-americas-apartheid-city/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
