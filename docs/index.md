@@ -18,7 +18,9 @@
   <h3 align="center">The Pittsburgh Project</h3>
 
   <p align="center">
-    A few views of PGH you may not have seen before.
+    A tale of two cities:<br /> 
+    Ranked 3rd most livable city in the US by The Economist.  <br />
+    Ranked 3rd worst for racial equity in the US by The Reinvestment Fund
     <br /> <br />
     <a href="https://github.com/dts0112/docs"><strong>Explore the maps »</strong></a>
     <br />
@@ -42,17 +44,17 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#where-did-the-data-come-from">Wheres the data coming from?"</a></li>
+        <li><a href="#where-does-the-data-come-from">Where does the data come from?</a></li>
         <li><a href="#who-funded-this-project">Who funded this project?"</a></li>
       </ul>
     </li>
     <li>
-      <a href="#What-is-Pittsburgh">What is Pittsburgh?</a>
+      <a href="#what-is-pittsburgh">What is Pittsburgh?</a>
       <ul>
-        <li><a href="#prerequisites">How big is Pittsburgh?</a></li>
-        <li><a href="#installation">How many people live here?</a></li>
-        <li><a href="#installation">Intersting facts about PGH</a></li>
-        <li><a href="#installation">Municipal boundaries</a></li>
+        <li><a href="#how-big-is-pittsburgh">How big is Pittsburgh?</a></li>
+        <li><a href="#how-many-people-live-here">How many people live here?</a></li>
+        <li><a href="#interesting-facts-about-PGH">Interesting facts about PGH</a></li>
+        <li><a href="#municipal-boundaries">Municipal boundaries</a></li>
       </ul>
     </li>
     <li><a href="#usage">Air Quality in Poor Neighborhoods</a></li>
@@ -93,16 +95,11 @@ Pittsburgh is one of the worst cities for racial and economic inequity?:
 * The reinvestment Fund ranked Pittsburgh **3rd worst in the country**.
 * Listen to my podcast about living with Martins and Bernies and more.
 
-
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Where does the data come from?
 
-
-### Where did the data come from?
-
-The data for the maps, charts, and etc. included in this project come from the following sources. 
+The data for the maps, charts, and and other documents included in this project come from the following sources. 
 
 * [NASA](https://nasa.gov/)
 * [USDA](https://usda.gov/)
@@ -110,26 +107,47 @@ The data for the maps, charts, and etc. included in this project come from the f
 * [Western PA Regional Data Center](https://wprdc.gov/)
 * [Pennsylvania Spatial Data Access](https://www.pasda.psu.edu/)
 * [Bureau of Labor Statistics](https://www.bls.gov/)
+* [The Economist](https://www.eiu.com/n/campaigns/global-liveability-index-2021/)
+* [The Reinvestment Fund](https://www.reinvestment.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- Who funded this project -->
-## Who funded this project?
+### Who funded this project?
 
 This project has not yet been funded. It was built using free cloud-based technology and data that is free to the public.
 The content developers, researchers, data analysts, programmers, and web designers all
 donated thier time.
 
 <!-- What is Pittsburgh? -->
-### What is Pittsburgh?
+## What is Pittsburgh?
+Pittsburgh, PGH, Steel City, City of Bridges, Iron City, BlitzBurgh, DirtyBurgh, Paris of Appalachia, The 412...
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+is a City
+<!-- pgh outline!
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
+
+in Allegheny County
+<!-- PGH in AlleG
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
+
+in Western Pennsylvania
+<!-- pgh in PA outline!
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
+
+in the United States of America, Continent of North America, Earth
+<!-- pgh on interactive map zoomed way out!
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
+
+
+
 
 ### Installation
 
