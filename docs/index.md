@@ -174,9 +174,9 @@ _See more population statistics, and compare them to Cincinnati and Austin at th
 <!-- Interesting facts about Pittsburgh -->
 ## Interesing facts about Pittsburgh
 
-- [x] ~~446~~ 445 bridges _[Heinz History Center](https://www.heinzhistorycenter.org/blog/western-pennsylvania-history/pittsburgh-the-city-of-bridges)_
-- [x] 800+ City Steps [The City of Pittsburgh](https://pittsburghpa.gov/citysteps)
-- [ ] Over a million google search results for "a tale of two cities" and "pittsburgh"
+- [x] ~~446~~ 445 bridges  -  _Learn more at the [Heinz History Center](https://www.heinzhistorycenter.org/blog/western-pennsylvania-history/pittsburgh-the-city-of-bridges)_
+- [x] 800+ City Steps  -   _explore all the steps at [The City of Pittsburgh City Steps](https://pittsburghpa.gov/citysteps)_
+- [ ] Over 200,000 google search results for "a tale of two cities" and "pittsburgh"
     - [ ] Even a Louie Anderson movie
     - [ ] a wnyc podcast about pittsburgh
 
