@@ -91,7 +91,7 @@ give you a deeper understanding of what's really going on here. We'll present vi
 neighborhoods and more, combined with various datasets from entities such as the US Census Bureau, the Bureau of Labor Statistics, the USDA, and NASA, to name a few. After this journey you will understand what factors make Pittsburgh one of the worst cities in America for 'racial' and income inequity.
 
 Is Pittsburgh one of the worst cities for racial and economic inequity?:
-* Allegheny County says... `'PGH... not a good place for people of color'`.
+* Allegheny County says... `'comparing livability and well-being among races...'`
 * The reinvestment Fund ranked Pittsburgh **3rd worst in the country**.
 * Listen to my podcast about living with Martins and Bernies and more oh my!
 
